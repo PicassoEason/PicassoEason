@@ -22,5 +22,5 @@
 
 🧰 My toolbox
 ---
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,materialui,tailwind,bootstrap,scss,redux,prisma,docker,figma,firebase,nestjs,mongodb,aws,ps,illustrator&perline=5&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,nextjs,materialui,tailwind,bootstrap,redux,prisma,docker,figma,firebase,nestjs,mongodb,aws,ps,illustrator&perline=5&theme=dark)](https://skillicons.dev)
 
